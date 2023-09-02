@@ -1,1 +1,3 @@
+theme:architect
+
 # ttrpgtools
