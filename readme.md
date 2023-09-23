@@ -1,5 +1,8 @@
 
-
+---
+title: Home
+sidebar: nav
+---
 Summary:
 
 <ul>
@@ -10,6 +13,11 @@ Summary:
   {% endfor %}
 </ul>
 
+<ul>
+    {% for item in site.data.nav[page.sidebar] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+</ul>
 
 Campaign/Adventure Management:
 
