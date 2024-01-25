@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Mastodon"
+date:  2022-12-07 0622 --0500
+categories: social_media
+---
+For those interested in leaving the Bird app for a different service I have spent the past few days looking at Mastodon, which seems like a great alternative. While somewhat intimidating due to the decentralized nature there are several servers already set up where you can create an account. And since it is decentralized you can follow and interact with folks across multiple servers (it helped me to think about it more as email than anything else. I’ve included some links below that helped me better engage with the topic.
+
+# General Information
+
+- [Mastodon - Decentralized social media](https://joinmastodon.org/)
+
+>Social networking that’s not for sale.   Your home feed should be filled with what matters to you most, not what a corporation thinks you should see. Radically different social media, back in the hands of the people.
+
+
+- [Mastodon quick start guide - Official Mastodon Blog](https://blog.joinmastodon.org/2018/08/mastodon-quick-start-guide/)
+
+> Mastodon is a microblogging platform akin to others you may have seen, such as Twitter, but instead of being centralised it is a federated network which operates in a similar way to email.
+
+> Like email, you choose your server and whether it’s GMail, Outlook, iCloud, wherever you sign up you know you’ll be able to email everyone you need to so long as you know their address.
+
+# Servers:
+* [Mastodon Social](https://mastodon.social/explore)
+* [Dice.camp](https://dice.camp/explore)
+* [Enworld.org TableToot: Chatter for Tabletop Gamers](https://chirp.enworld.org/about)
