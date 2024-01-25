@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Commonplace Notebook"
-date:  2023-08-15 --0826
+date:  2023-08-15 --0826 --0500
 categories: note_taking
 ---
 
