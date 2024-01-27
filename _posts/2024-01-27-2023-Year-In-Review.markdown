@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "2023 in Review "
+date:  2024-01-27 18:30 --0500
+categories: year_in_review
+---
+This past year has seen development menta in AI and LLM (large language models)[^I am not an expert in LLMs or AI and have only experimented with Chat GPT4 briefly so opinions my change.] that have forced us to think about knowledge work in new ways and think about how we function as an informed so society. While I have some ethical questions around AI I think it is an amazing technology and it shows inherent need for humanity to understand and organize their world.
+
+AI is being use to summarize and condense the information landscape into accessible informational resources we can understand. The world’s knowledge has become too large for anyone to know  everything and we’ve reached a point where [Google is still rendering pages upon pages of blue-link results yet realizes it needs to do more.](https://www.theverge.com/2023/5/12/23720396/google-search-generative-experience-blue-links)
+
+Yet, among all the AI I think there is still room and need for human curation and humans. I have recently become mildly obsessed/focused on digital gardens and creating an organic knowledge base on the open web.
+
+> A garden is a collection of evolving ideas that aren't strictly organised by their publication date. They're inherently exploratory – notes are linked through contextual associations. They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time. They're less rigid, less performative, and less perfect than the personal websites we're used to seeing.
+
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+
+The greatest work I have [seen on digital gardens is by Maggie Appleton](https://maggieappleton.com/)[^Here is a great podcast where Maggie discusses her work https://theinformed.life/2023/07/16/episode-118-maggie-appleton/] and her work has been inspiring. I have been slowly trying to re-work the tech stack on georgedpr.com and my personal site to move away from singular blogging software to a static [[[site generator, Jekyll,](https://jekyllrb.com/)]] so I can adopt a more organic style (and also learn more about static site generators). I have always struggled to blog regularly and often have a hard time being done. I have lost too many posts to them languishing in my drafts folder. I plan moving over the majority of my posts as I am able (and as I have done before) and then starting to build some posts into more articles on the site.
+
+Semi-relatedly, I am working on learning Python so I can level up my analysis skills and also help in increase my general technical skill level (i.e. stay ahead of the aforementioned AI). I need to be careful though about my time as I can get lost in the curiosities and spend more time on the tool than on getting the work done.
+
+I would regularly say I wanted to write more in the new year though I think this year I want to “write better”. I want to focus on putting out more article-style writing, which I don’t think has the same urgency as a blog post. I also want to write more on knowledge management for teams and creating a knowledge hub.
+

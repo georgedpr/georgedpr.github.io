@@ -4,8 +4,6 @@ title:  "23 Things Vol. 1: Blogging"
 date:   2008-12-08 0810 -0500
 categories: librarian
 ---
-
-
 The first 23 Things module (actually it's the 2nd, but the 1st is an introduction) involves creating a blog. They recommend beginning with services like Blogger, Typepad or Vox. (They have a list of around fifty different services which shows the blogging has become more mainstream than niche.) I have some experience running my own website and had used the free blogging service at Blogger and Livejournal. Rather than continue down the same path as before I started trying something new. That is the reason behind the 23 Things project. I ended up trying a couple of different services before falling back on Blogger and then again onto my traditional web creation software: RapidWeaver
 
 * Typepad: A Six Apart property (I think) for the professional blogger Typepad has several different service levels aimed at meeting the needs of several different client types. I had heard go things about the service and the home page looked professional (i.e. shiny). I started down the particularly painless set-up path. However, I came to a screeching halt when the site warned told me about the exciting 14-day free trial and how afterward my credit card would be charged the initial set-up fee. I generally don’t like trial periods that then shift into payment. I am always afraid that I am going to forget to cancel the service or I am paranoid about getting comfortable with a service and then being priced out of said service.
