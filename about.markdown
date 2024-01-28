@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
 My name is George Peckham-Rooney and I currently work as a data analyst at a research university in the southeastern United States though I have worked in small research centers, large government digital repositories, international law firms, and academic libraries. 
