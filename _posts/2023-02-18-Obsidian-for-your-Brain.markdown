@@ -2,7 +2,7 @@
 layout: post
 title:  "Obsidian for your Brain"
 date:  2023-02-18 1433
-categories: 
+categories: technology
 ---
 I have been an Obsidian user for somewhere around two years and I love it though it takes a certain perspective and it is not for everyone. I never could articulate why it was so different and this seems like an interesting take on Obsidian.
 

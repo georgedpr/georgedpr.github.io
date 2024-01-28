@@ -2,7 +2,7 @@
 layout: post
 title:  "Commonplace Notebook"
 date:  2023-08-15 --0826 --0500
-categories: note_taking
+categories: notes
 ---
 
 In mid-summer, I filled up the last page in [my commonplace notebook](https://en.wikipedia.org/wiki/Commonplace_book) while on vacation in New Hampshire, and I needed a new one. I had been using a pretty standard moleskin notebook (graph lined) though I happen to go by an amazing mercantile in downtown Portsmouth, [Pickwicks](https://www.pickwicksmercantile.com), and I found the [Voyager Notebook](https://www.peterpauper.com/collections/voyager-notebooks) line from [Peter Pauper Press](https://www.peterpauper.com).
