@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "2022 Year in Review"
+date:  2023-01-01 0943
+categories: year_in_review
+---
+
+
+The past year has been a whirlwind and yet the New Year has also come/landed as a complete surprise. I looked through my blog archive the other day and I realized I never did a year round-up last year so this will be 2021 and 2022 in review of sorts.
+
+The biggest change is that I have changed jobs and departments this year at MPOW and moved into a role that generates reports using SQL as opposed to Oracle’s GUI interface PSQuery tool. I had gotten good about using CASE statements and expressions to work around PSQuery’s limitations though it was great to start working directly with the database.
+
+The concept behind using PSQuery and direct/raw SQL is the same though now I get to use features like CTE tables and also have more control over the join criteria and functions. Still, it has been like taking a drink from a fire hose in terms of learning new skills, and tools (I ask using Dbeaver as my IDE in case you’re wondering; it is great.).
+
+In late-breaking esque news, I have been enjoying my time on Mastodon on the Libraryland Server. It reminds me of the early birdsite where you had interactions with folks and your timeline didn’t get bombarded with updates. I also like how it is federated like email so you’re not tied to one instance and you can interact with anyone. If you’re interested in finding me on Mastadon you can find me at @georgedpr@libraryland.social.
+
+I have continued my journey in personal knowledge management tools and processes (i.e. PKM) and relatedly was overjoyed to be added to the Documentation working group at MPOW. I still LOVE software and enjoy trying new tools, which means I have used Apple Notes, Agenda, Obsidian, Notion, Craft, and OneNote at various times. I have settled on Agenda for home-related notes, Obsidian for personal writing, and OneNote at work (though I looking forward to Microsoft Loop being more widely available).
+
+I hope the new year brings more skill growth and also more time to write (though I have said that before and made promises to do better before too) I am trying to give myself grace though rather than sticking to a strict schedule or trying to maintain something I can’t manage. I hope everyone has a great day, and a wonderful year.

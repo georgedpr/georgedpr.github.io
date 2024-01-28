@@ -2,7 +2,7 @@
 layout: post
 title:  "Mastodon"
 date:  2022-12-07 0622 --0500
-categories: social_media
+categories: technology
 ---
 For those interested in leaving the Bird app for a different service I have spent the past few days looking at Mastodon, which seems like a great alternative. While somewhat intimidating due to the decentralized nature there are several servers already set up where you can create an account. And since it is decentralized you can follow and interact with folks across multiple servers (it helped me to think about it more as email than anything else. I’ve included some links below that helped me better engage with the topic.
 
