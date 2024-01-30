@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2023 in Review "
+title:  "2023 Year in Review "
 date:  2024-01-27 18:30 --0500
 categories: year_in_review
 ---
@@ -14,7 +14,7 @@ Yet, among all the AI I think there is still room and need for human curation an
 
 - [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 
-The greatest work I have [seen on digital gardens is by Maggie Appleton](https://maggieappleton.com/)[^2] and her work has been inspiring. I have been slowly trying to re-work the tech stack on georgedpr.com and my personal site to move away from singular blogging software to a static [[[site generator, Jekyll,](https://jekyllrb.com/)]] so I can adopt a more organic style (and also learn more about static site generators). I have always struggled to blog regularly and often have a hard time being done. I have lost too many posts to them languishing in my drafts folder. I plan moving over the majority of my posts as I am able (and as I have done before) and then starting to build some posts into more articles on the site.
+The greatest work I have [seen on digital gardens is by Maggie Appleton](https://maggieappleton.com/)[^2] and her work has been inspiring. I have been slowly trying to re-work the tech stack on georgedpr.com and my personal site to move away from singular blogging software to a static [site generator, Jekyll,](https://jekyllrb.com/)] so I can adopt a more organic style (and also learn more about static site generators). I have always struggled to blog regularly and often have a hard time being done. I have lost too many posts to them languishing in my drafts folder. I plan moving over the majority of my posts as I am able (and as I have done before) and then starting to build some posts into more articles on the site.
 
 Semi-relatedly, I am working on learning Python so I can level up my analysis skills and also help in increase my general technical skill level (i.e. stay ahead of the aforementioned AI). I need to be careful though about my time as I can get lost in the curiosities and spend more time on the tool than on getting the work done.
 
