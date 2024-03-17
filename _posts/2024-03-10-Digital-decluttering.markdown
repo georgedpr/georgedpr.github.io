@@ -8,7 +8,7 @@ The blog has now officially moved (hopefully for the last time) from the current
 
 I then had the pleasure of trying to port over all my prior posts from [Blogger](https://www.blogger.com) and [Tumblr](https://www.tumblr.com)[^2], which I thought would be a manual process though the community has built several import tools that [work for a variety of different services](https://import.jekyllrb.com). The pages get imported just fine (albeit in HTML rather than Markdown), and they look fully integrated with the blog.
 
-I do still have some issues with [deadlinks](https://en.wikipedia.org/wiki/Link_rot) though that is an issue on any website (large or small). I have found that I enjoy the service so far. It is more nuanced/fiddly to set up though it meets my needs, and I now have a text file for EVERY one of [my posts going back to 2008](%20site.baseurl%20{% post_url 2008-12-02-23-things-vol-1-blogging_4062 %}) so that is rather amazing considering everything. I am no longer locked into a single service. 
+I do still have some issues with [deadlinks](https://en.wikipedia.org/wiki/Link_rot) though that is an issue on any website (large or small). I have found that I enjoy the service so far. It is more nuanced/fiddly to set up though it meets my needs, and I now have a text file for EVERY one of [my posts going back to 2008](%site.baseurl%{% post_url 2008-12-02-23-things-vol-1-blogging_4062 %}) so that is rather amazing considering everything. I am no longer locked into a single service. 
 
 Here are some tutorial videos that I found helpful in working through Jekyll:
 
